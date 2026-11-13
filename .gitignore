@@ -1,0 +1,22 @@
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Local files containing secrets
+config.local.js
+.dev.vars
+.dev.vars.*
+
+# Dependencies
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+.dev.vars
+.dev.vars.*
